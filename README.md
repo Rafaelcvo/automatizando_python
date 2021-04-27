@@ -1,2 +1,3 @@
-# automatizando_python
-Automatizando com Python.
+# Automatizando com Python  
+
+Automatizando processos com Python.
