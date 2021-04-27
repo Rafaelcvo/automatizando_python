@@ -1,14 +1,18 @@
 import pyautogui as auto
+import pywhatkit
 import time
-# auto.alert("Iniciando envio de mensagens!")
 
-auto.press('winleft')
-auto.write('chrome')
-auto.press('enter')
-time.sleep(3)
-auto.press('enter')
-auto.sleep(2)
-auto.moveTo(300,50)
-auto.doubleClick()
-auto.write("https://api.whatsapp.com/send?phone=5538991801928")
-auto.press('enter')
+tel = ['+', '+']
+
+for i in tel:
+    h = int(time.strftime('%H', time.localtime()))
+    m = int(time.strftime('%M', time.localtime()))
+    m = m+1
+    print(h,m)
+
+    pywhatkit.sendwhatmsg(i,"This is a message!",h,m)
+    auto.PAUSE = 5
+    auto.moveTo(1350,15)
+    auto.click()
+    auto.moveTo(820,375)
+    auto.click()
