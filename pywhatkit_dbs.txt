@@ -74,3 +74,162 @@ Time: 16:10
 Phone number: +5538991801928
 Message: Segundo dia de teste!
 --------------------
+Date: 29:4:2021
+Time: 18:18
+Phone number: +5538991801928
+Message: Olá Rafaeltudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:19
+Phone number: +5538991801928
+Message: Olá Rafaeltudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:20
+Phone number: +5538991801928
+Message: Olá Afonsotudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:20
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:21
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:33
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:34
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:44
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 18:45
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 15:47
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 15:48
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 15:49
+Phone number: +5538991801928
+Message: Olá Antonio tudo bem com você?
+--------------------
+Date: 29:4:2021
+Time: 15:53
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você?❤
+--------------------
+Date: 29:4:2021
+Time: 15:54
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? ❤
+--------------------
+Date: 29:4:2021
+Time: 15:55
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? ❤
+--------------------
+Date: 29:4:2021
+Time: 15:56
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você? ❤
+--------------------
+Date: 29:4:2021
+Time: 15:57
+Phone number: +5538991801928
+Message: Olá Antonio tudo bem com você? ❤
+--------------------
+Date: 29:4:2021
+Time: 15:60
+Phone number: +5538991801928
+Message: ('Olá ', 'Rafael', ' tudo bem com você? ', '❤', '. ', '\n Aqui começa uma nova linha.')
+--------------------
+Date: 29:4:2021
+Time: 16:1
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? ❤. 
+ Aqui começa uma nova linha.
+--------------------
+Date: 29:4:2021
+Time: 16:3
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? ❤. 
+ 
+
+ Aqui começa uma nova linha.
+--------------------
+Date: 29:4:2021
+Time: 16:4
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você? ❤. 
+ 
+
+ Aqui começa uma nova linha.
+--------------------
+Date: 29:4:2021
+Time: 16:4
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? ❤. 
+ 
+
+ Aqui começa uma nova linha.
+--------------------
+Date: 29:4:2021
+Time: 16:5
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você? ❤. 
+ 
+
+ Aqui começa uma nova linha.
+--------------------
+Date: 29:4:2021
+Time: 16:6
+Phone number: +5538991801928
+Message: Olá Antonio tudo bem com você? ❤. 
+ 
+
+ Aqui começa uma nova linha.
+--------------------
+Date: 29:4:2021
+Time: 16:11
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? 
+ É possível inserir texto passando uma promoção.
+Podemos inserir emojis ❤. 
+--------------------
+Date: 29:4:2021
+Time: 16:12
+Phone number: +5538991801928
+Message: Olá Afonso tudo bem com você? 
+ É possível inserir texto passando uma promoção.
+Podemos inserir emojis ❤. 
+--------------------
+Date: 29:4:2021
+Time: 16:14
+Phone number: +5538991801928
+Message: Olá Rafael tudo bem com você? 
+É possível inserir texto passando uma promoção.
+Podemos inserir emojis ❤.
+
+Inserir links https://www.instagram.com/rafaelcvo/
+--------------------
